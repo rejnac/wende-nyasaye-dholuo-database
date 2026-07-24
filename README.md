@@ -1,4 +1,4 @@
-# Wende Nyasaye by Rejnac Foundation.
+# Wende Nyasaye from Rejnac Foundation.
 
 By sir enock,
 
@@ -10,7 +10,7 @@ Please note that the songs were initially prepared on Videopsalm Church Presenta
 
 1. Ekegusii: https://tinyurl.com/rejnac-ogotera
 2. Swahili:
-3. SDAH: 
+3. SDAH: https://tinyurl.com/rejnac-sdah
 4. Dholuo: https://tinyurl.com/rejnac-wende
 
 # Donation contacts
