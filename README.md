@@ -9,9 +9,8 @@ Please note that the songs were initially prepared on Videopsalm Church Presenta
 # Links to related projects
 
 1. Ekegusii: https://tinyurl.com/rejnac-ogotera
-2. Swahili:
+2. Swahili: https://tinyurl.com/rejnac-nyimbo
 3. SDAH: https://tinyurl.com/rejnac-sdah
-4. Dholuo: https://tinyurl.com/rejnac-wende
 
 # Donation contacts
 You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
