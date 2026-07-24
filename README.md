@@ -6,7 +6,7 @@ The repository contains all the 332 Wende Nyasaye Hymnal lyrics in Dholuo langua
 
 Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
-# Links to similar projects
+# Links to related projects
 
 1. Ekegusii: https://tinyurl.com/rejnac-ogotera
 2. Swahili:
