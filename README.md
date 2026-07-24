@@ -2,7 +2,7 @@
 
 By sir enock,
 
-The repository contains databases of all SDAH Songs in Dholuo language also called Kijaluo.
+The repository contains all the 332 Wende Nyasaye Hymnal lyrics in Dholuo language also called Kijaluo.
 
 Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
