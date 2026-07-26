@@ -11,6 +11,7 @@ Please note that the songs were initially prepared on Videopsalm Church Presenta
 1. Ekegusii: https://tinyurl.com/rejnac-ogotera
 2. Swahili: https://tinyurl.com/rejnac-nyimbo
 3. SDAH: https://tinyurl.com/rejnac-sdah
+4. Kikuyu: https://tinyurl.com/rejnac-agendi
 
 # Donation contacts
 You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
