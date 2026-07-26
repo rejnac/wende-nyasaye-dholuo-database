@@ -18,7 +18,8 @@ Wende Nyasaye is part of several other databases and lyrics based projects that 
 You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
 
 * Paypal: info@rejnac.com 
-* M-Pesa: +254713860652 
+* M-Pesa: +254713860652
+* Donate: https://tinyurl.com/rejnac-donate
 
 "Preserving the Heritage of SDA worship materials" is our ultimate goal!
 
