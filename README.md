@@ -13,6 +13,7 @@ Wende Nyasaye is part of several other databases and lyrics based projects that 
 2. Swahili: https://tinyurl.com/rejnac-nyimbo
 3. SDAH: https://tinyurl.com/rejnac-sdah
 4. Kikuyu: https://tinyurl.com/rejnac-kikuyu
+5. Chichewa: https://tinyurl.com/rejnac-chichewa
 
 # Donation contacts
 You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
