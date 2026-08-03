@@ -7,13 +7,10 @@ The repository contains all the 332 Wende Nyasaye Hymnal lyrics in Dholuo langua
 Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
 Wende Nyasaye is part of several other databases and lyrics based projects that we are currently doing in different languages. 
+
 # Links to related projects
 
-1. Ekegusii: https://tinyurl.com/rejnac-ogotera
-2. Swahili: https://tinyurl.com/rejnac-nyimbo
-3. SDAH: https://tinyurl.com/rejnac-sdah
-4. Kikuyu: https://tinyurl.com/rejnac-kikuyu
-5. Chichewa: https://tinyurl.com/rejnac-chichewa
+Compilation: https://tinyurl.com/rejnac-french
 
 # Donation contacts
 You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
