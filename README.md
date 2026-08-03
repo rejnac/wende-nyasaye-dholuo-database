@@ -22,4 +22,4 @@ Compiled: https://tinyurl.com/rejnac-compiled
   
 You can help us correct lyrics errors in (.json), donate, or join a team of dedicated developers involved in this noble project.
  
-Prepared sir enock and friends (https://rejnac.org).
+Prepared by sir enock and friends (https://rejnac.org).
