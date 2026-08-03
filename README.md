@@ -11,7 +11,7 @@ Wende Nyasaye is part of several other databases and lyrics based projects that 
 Making SDA Worship Material accessible to everyone.
 
 
-# Multilingual
+# Compilation
 
 Compiled: https://tinyurl.com/rejnac-compiled
 
