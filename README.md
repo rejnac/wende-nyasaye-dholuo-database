@@ -4,7 +4,7 @@ By sir enock,
 
 The repository contains all the 332 Wende Nyasaye Hymnal lyrics in Dholuo language also called Kijaluo.
 
-Disclaimer: The songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
+Disclaimer: The lyrics were prepared on VideoPsalm Church Presentation software (opensource), exported in its native (.vpc) format, and extracted as (.Json) file.
 
 Wende Nyasaye is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
