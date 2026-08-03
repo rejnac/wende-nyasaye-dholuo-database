@@ -1,4 +1,4 @@
-# Wende Nyasaye from Rejnac Foundation.
+# Wende Nyasaye
 
 
 The repository contains all the 332 Wende Nyasaye Hymnal lyrics in Dholuo language also called Kijaluo.
@@ -7,15 +7,15 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 
 Wende Nyasaye is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
-# Our mission
+# Mission
 Making SDA Worship Material accessible to everyone.
 
 
-# Multi-lingual SDA hymnal
+# Multilingual
 
 Compiled: https://tinyurl.com/rejnac-compiled
 
-# VideoPsalm App projector presentation
+# VideoPsalm
 1. Download the (.vpc) file 
 2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root folder (inside songbooks)
 3. Launch or restart VideoPsalm App for the changes to apply. Enjoy!!!
