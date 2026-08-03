@@ -10,7 +10,7 @@ Wende Nyasaye is part of several other databases and lyrics based projects that 
 
 # Links to related projects
 
-Compilation: https://tinyurl.com/rejnac-french
+Compilation: https://tinyurl.com/rejnac-hymnals
 
 # Donation contacts
 You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
