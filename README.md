@@ -10,7 +10,7 @@ Wende Nyasaye is part of several other databases and lyrics based projects that 
 
 # Multi-lingual SDA hymnal
 
-Compiled: https://tinyurl.com/rejnac-hymnals
+Compiled: https://tinyurl.com/rejnac-compiled
 
 # Donation contacts
 You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
