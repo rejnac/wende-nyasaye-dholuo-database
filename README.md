@@ -8,9 +8,8 @@ Please note that the songs were initially prepared on Videopsalm Church Presenta
 
 Wende Nyasaye is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
-# Multi-lingual SDA hymnal
-
-Compiled: https://tinyurl.com/rejnac-compiled
+# Our mission
+Making SDA Worship Material accessible to everyone.
 
 # Donation contacts
 You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
@@ -19,9 +18,8 @@ You can support us in correcting errors or donating towards a team of dedicated 
 * M-Pesa: +254713860652
 * Donate: https://tinyurl.com/rejnac-donate
 
-Our Mission: "Making SDA Worship Material accessible to everyone."
+# Multi-lingual SDA hymnal
 
-
+Compiled: https://tinyurl.com/rejnac-compiled
 
 Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
-
