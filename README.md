@@ -1,6 +1,5 @@
 # Wende Nyasaye from Rejnac Foundation.
 
-By sir enock,
 
 The repository contains all the 332 Wende Nyasaye Hymnal lyrics in Dholuo language also called Kijaluo.
 
