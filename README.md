@@ -19,5 +19,7 @@ Compiled: https://tinyurl.com/rejnac-compiled
 1. Download the (.vpc) file 
 2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root folder (inside songbooks)
 3. Launch or restart VideoPsalm App for the changes to apply. Enjoy!!!
+  
+You can help us correct lyrics errors in (.json), donate, or join a team of dedicated developers involved in this noble project.
  
 Prepared sir enock and friends (https://rejnac.org).
