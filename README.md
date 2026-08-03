@@ -19,7 +19,7 @@ You can support us in correcting errors or donating towards a team of dedicated 
 * M-Pesa: +254713860652
 * Donate: https://tinyurl.com/rejnac-donate
 
-"Preserving the Heritage of SDA worship materials" is our ultimate goal!
+Our Mission: "Making SDA Worship Material accessible to everyone."
 
 
 
