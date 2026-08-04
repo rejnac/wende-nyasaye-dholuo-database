@@ -8,7 +8,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 Wende Nyasaye is part of several other SDA music lyrics under refinement in different languages. 
 
 # Mission
-Making SDA worship material accessible to everyone.
+Enhancing Adventist worship in local languages.
 
 
 # Compilation
