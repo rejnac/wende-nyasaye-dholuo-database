@@ -13,7 +13,7 @@ Enhancing Adventist worship in local languages.
 
 # Compilation
 
-Compiled: https://tinyurl.com/rejnac-compiled
+Compiled: https://github.com/rejnac/compiled-hymnal
 
 # VideoPsalm 
 Install VideoPsalm and follow these 3 steps to start projecting;
